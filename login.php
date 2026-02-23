@@ -37,4 +37,8 @@ if(isset($_POST['login'])){
     Username / NIS : <input type="text" name="username" required><br><br>
     Password (Admin saja) : <input type="password" name="password"><br><br>
     <button name="login">Login</button>
+
+    <br>
+Belum punya akun? <a href="register.php">Daftar disini</a>
+
 </form>
